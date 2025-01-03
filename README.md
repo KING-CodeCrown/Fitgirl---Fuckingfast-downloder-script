@@ -16,11 +16,12 @@ Make sure you have Python 3.x installed on your machine. You can download Python
 Selenium Library 📚
 This script requires the Selenium Python library to interact with the browser. You can install it by running the following command in an elevated command prompt (run as admin):
 
-bash
-Copy code
+```bash ... 
 pip install selenium
+```
 Google Chrome 🌐
 The script uses Google Chrome. Ensure that it is installed on your system. If you don’t have it, download it from the official Google Chrome website.
 
 ChromeDriver 🖥️
 You need to download the correct version of ChromeDriver that matches your Chrome browser version. You can find the right version of ChromeDriver here. Place chromedriver.exe in the same directory as the script.
+
