@@ -25,4 +25,6 @@ The script uses Google Chrome. Ensure that it is installed on your system. If yo
 
 4) ChromeDriver 🖥️
 You need to download the correct version of ChromeDriver that matches your Chrome browser version. You can find the right version of ChromeDriver here. Place chromedriver.exe in the same directory as the script.
-
+```bash ... 
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+```
