@@ -8,20 +8,21 @@ This script automates the entire process, saving you time ⏰ and effort 💪. I
 Now, instead of manually managing dozens of links 🔗, this script does it for you, making downloading from fuckingfast a breeze 🌬️!
 
 Prerequisites 🛠️
+
 Before running the script, ensure you have the following:
 
-Python 3.x 🐍
+1) Python 3.x 🐍
 Make sure you have Python 3.x installed on your machine. You can download Python from the official Python website.
 
-Selenium Library 📚
+2) Selenium Library 📚
 This script requires the Selenium Python library to interact with the browser. You can install it by running the following command in an elevated command prompt (run as admin):
 
 ```bash ... 
 pip install selenium
 ```
-Google Chrome 🌐
+3) Google Chrome 🌐
 The script uses Google Chrome. Ensure that it is installed on your system. If you don’t have it, download it from the official Google Chrome website.
 
-ChromeDriver 🖥️
+4) ChromeDriver 🖥️
 You need to download the correct version of ChromeDriver that matches your Chrome browser version. You can find the right version of ChromeDriver here. Place chromedriver.exe in the same directory as the script.
 
